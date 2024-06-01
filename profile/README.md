@@ -1,5 +1,5 @@
 # Flickr
-<img src="https://github.com/sns-service/.github/assets/56336436/b2fea11b-8b29-4df1-a001-7d59f6f84559" alt="DALL·E 2024-06-01 18 00 25 - A simple and modern illustration for an SNS service named 'Flickr'" width="1050" height="560">
+<img src="https://github.com/sns-service/.github/assets/56336436/b2fea11b-8b29-4df1-a001-7d59f6f84559" alt="DALL·E 2024-06-01 18 00 25 - A simple and modern illustration for an SNS service named 'Flickr'" width="1050" height="500">
 
 ### 👉 [플리커 바로가기](https://a-simple.sns.link)
 
