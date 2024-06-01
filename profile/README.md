@@ -1,7 +1,7 @@
 # Flickr
 **스냅 사진을 뜻하는 'Flick' + 'r' 을 결합하여, 빠르고 생동감 있는 SNS 서비스 이름입니다.** <br> 
 
-<img src="https://github.com/sns-service/.github/assets/56336436/b2fea11b-8b29-4df1-a001-7d59f6f84559" alt="DALL·E 2024-06-01 18 00 25 - A simple and modern illustration for an SNS service named 'Flickr'" width="1050" height="480">
+<img width="1120" alt="스크린샷 2024-06-02 오전 1 10 44" src="https://github.com/sns-service/.github/assets/56336436/8d228ad8-ae6d-45ff-a07a-88e25cab4b39">
 
 ### 👉 [플리커 바로가기](https://a.simple-sns.link/)
 
@@ -21,7 +21,8 @@
 - `좋아요 누르기` 피드에 좋아요를 누를 수 있어요. <br> 
 - `마이페이지` 마이페이지에서 자신의 팔로워, 팔로우 리스트를 볼 수 있어요.
 
-<br>
+<br> 
+
 
 ## 📆 프로젝트 기간
 
@@ -49,7 +50,6 @@
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
 <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
 <img src="https://img.shields.io/badge/EKS-5A9ED6?style=for-the-badge&logo=amazon-eks&logoColor=white">
-<img src="https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazon-route53&logoColor=white">
 </p>
 
 <br>
