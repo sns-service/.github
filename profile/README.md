@@ -29,6 +29,15 @@
 
 <br>
 
+### Member
+| 하정수 |
+| ---|
+| <img width="150px" src="https://avatars.githubusercontent.com/u/56336436?v=4" /> |
+| 전체 개발 |
+| [Jungsu-lilly](https://github.com/Jungsu-lilly) |
+
+<br>
+
 ## 🛠️ 기술 스택
 ### 개발 환경
 <p>
