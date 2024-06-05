@@ -68,4 +68,4 @@
 <br>
 
 ## 시퀀스 다이어그램
-👉 [바로가기](https://github.com/sns-service/documents/blob/main/%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md)
+### 👉 [바로가기](https://github.com/sns-service/documents/blob/main/%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md)
