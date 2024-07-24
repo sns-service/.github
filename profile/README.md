@@ -1,6 +1,6 @@
-# Flickr
+# Flicker
 **스냅 사진을 뜻하는 'Flick' + 'r' 을 결합하여, 빠르고 생동감 있는 SNS 서비스 이름입니다.** <br> 
-### 👉 [플리커 바로가기](https://a.simple-sns.link/)
+### 👉 [플리커 바로가기](https://a.simple-sns.link)
 <br>
 
 ## 프로젝트 소개
